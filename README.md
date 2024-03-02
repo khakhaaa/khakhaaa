@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development & IoT**
 
-- 👨‍💻 All of my projects are available at [https://brainykhaa-web.vercel.app/](https://brainykhaa-web.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://brainykhaa-web.vercel.app/](https://brainykhaa.vercel.app/)
 
 - 💬 Ask me about **Arduino & IoT**
 
